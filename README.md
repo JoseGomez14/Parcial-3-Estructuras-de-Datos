@@ -28,6 +28,8 @@
 
   - Punto 2:
 
+    - `/2/BSPTree.pdf`
+
   - Punto 3:
     - `/3/ERHospital.jpeg`
 
@@ -183,6 +185,93 @@
 - **📄 Enunciado:** Renderizado de gráficos 3D - Utilizar árboles BSP para determinar qué objetos renderizar en un entorno 3D.
 
 - **💡 Estrategia:**
+
+  - BSP (Binary Space Partitioning) es un algoritmo que permite dividir un espacio en dos partes, de tal forma que se pueda determinar si un punto se encuentra en un lado u otro del plano y así poder determinar qué objetos renderizar en un entorno 3D, evitando así renderizar objetos que no se encuentran en el campo de visión del usuario.
+
+    El árbol BSP es una estructura de datos jerarquica que permite almacenar la información de los planos o hipérplanos que dividen el espacio, lo cual permite aplicar el algoritmo de BSP de forma eficiente. Por lo tanto, se decidió implementar un árbol BSP para resolver el problema.
+
+    Se eligió el árbol BSP por encima de otras estructuras de datos como los **Octrees** dado que el árbol BSP permite dividir el espacio en dos partes, lo cual es muy útil para el problema, dado que se busca determinar si un punto se encuentra en un lado u otro del plano.
+
+  - **🛢️ Datos:**
+
+    - Se tomó un conjunto de 200 polígonos que representan los objetos que se encuentran en el espacio 3D.
+
+      ```JS
+      [
+        [
+          { x: 18.765325470356984, y: 82.12582640299156, z: 0 },
+          { x: 18.765325470356984, y: 102.12582640299156, z: 0 },
+          { x: 58.765325470356984, y: 82.12582640299156, z: 0 },
+          { x: 58.765325470356984, y: 102.12582640299156, z: 0 },
+          { x: 18.765325470356984, y: 82.12582640299156, z: 30 },
+          { x: 18.765325470356984, y: 102.12582640299156, z: 30 },
+          { x: 58.765325470356984, y: 82.12582640299156, z: 30 },
+          { x: 58.765325470356984, y: 102.12582640299156, z: 30 }
+        ],
+        [
+          { x: 97.68167672423773, y: 129.57859325551664, z: 0 },
+          { x: 97.68167672423773, y: 149.57859325551664, z: 0 },
+          { x: 137.68167672423772, y: 129.57859325551664, z: 0 },
+          { x: 137.68167672423772, y: 149.57859325551664, z: 0 },
+          { x: 97.68167672423773, y: 129.57859325551664, z: 30 },
+          { x: 97.68167672423773, y: 149.57859325551664, z: 30 },
+          { x: 137.68167672423772, y: 129.57859325551664, z: 30 },
+          { x: 137.68167672423772, y: 149.57859325551664, z: 30 }
+        ],
+        ...
+      ]
+      ```
+
+      [Ver conjunto de datos completo](/2/polygons.js)
+
+  - **🚧 Construcción del árbol BSP:**
+
+    - Se tomaron 9 poligonos (En 2D) para el ejemplo y la representación se muestra a continuación:
+
+      <div align="center">
+        <img src="/2/assets/BSPTree1.png"/>
+      </div>
+
+    - Se tomó un poligono cualquiera y se determinó una partición del espacio, en este caso se tomó la pared vertical derecha del poligono C, partiendo el espacio en dos partes, una parte que se encuentra a la derecha de la pared y otra parte que se encuentra a la izquierda de la pared.
+
+    - Al momento de dividir, la parte derecha o la parte de arriba se agregó como hijo derecho del nodo principal y la parte izquierda o la parte de abajo se agregó como hijo izquierdo del nodo principal.
+
+      <div>
+        <img src="/2/assets/BSPTree2.png"/>
+      </div>
+
+    - La partición derecha se dividió recursivamente hasta obtener un punto de parada, en este caso hasta que cada partición contenga un solo poligono.
+
+      <div>
+        <img src="/2/assets/BSPTree3.png"/>
+      </div>
+
+      <div>
+        <img src="/2/assets/BSPTree4.png"/>
+      </div>
+
+      <div>
+        <img src="/2/assets/BSPTree5.png"/>
+      </div>
+
+  - **✅ Resultado:**
+      <div>
+        <img src="/2/assets/BSPTree6.png"/>
+      </div>
+
+      <div>
+        <img src="/2/assets/BSPTree7.png"/>
+      </div>
+
+    - Para determinar que elementos se deben renderizar se debe recorrer el árbol BSP, y determinar si el objeto se encuentra en la parte del espacio que no ha sido cubierta por otro objeto, en caso de que se encuentre en la parte del espacio que no ha sido cubierta por otro objeto, se debe renderizar.
+
+    - En caso de encontrar dos elementos en el mismo espacio se renderiza el que esté más cerca del punto de vista del usuario.
+
+    - Cada vez que se renderiza un elemento se debe marcar el espacio que ocupa como cubierto, y se recorren los nodos del árbol que no se han recorrido para determinar si se debe renderizar o no.
+
+    - Este proceso se repite hasta que el espacio de visión se encuentre completamente cubierta por los elementos renderizados.
+
+    - Todo el proceso se debe repetir cada vez que se mueva el punto de vista del usuario o en cada fotograma.
 
 ## Punto 3
 
