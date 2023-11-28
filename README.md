@@ -18,13 +18,18 @@
   - Abrir una terminal en la carpeta del proyecto
   - Ejecutar el comando `npm install`
   - Ejecutar el comando `npm run start:1` para ejecutar el punto 1
-  - Ejecutar el comando `npm run start:2` para ejecutar el punto 2
-  - Ejecutar el comando `npm run start:3` para ejecutar el punto 3
 
 - **Resultados**
+
   - Punto 1:
+
     - `/1/sortedAddresses.json`
     - `/1/sortedAddressesByPostalCode.json`
+
+  - Punto 2:
+
+  - Punto 3:
+    - `/3/ERHospital.jpeg`
 
 ---
 
@@ -184,3 +189,124 @@
 - **📄 Enunciado:** Gestión de un Hospital - Crea un modelo ER para administrar pacientes, doctores, citas, tratamientos y habitaciones de hospital.
 
 - **💡 Estrategia:**
+
+  - Para el diseño del modelo relacional se asumieron las siguientes reglas de negocio:
+
+    1. Paciente:
+
+       - Un paciente puede solicitar muchas citas.
+       - Un paciente puede pasar por muchas habitaciones.
+       - Un paciente puede acceder a muchos tratamientos.
+
+    2. Doctor:
+
+       - Un doctor puede atender muchas citas.
+       - Un doctor puede acompañar muchos tratamientos.
+
+    3. Tratamiento:
+
+       - Un tratamiento está asignado a uno o muchos doctores.
+       - El mismo tratamiento puede ser asignado a muchos pacientes.
+
+    4. Habitación:
+
+       - En una habitación pueden estar muchos pacientes.
+
+    5. Cita:
+
+       - Una cita es asignada a un solo paciente.
+       - Una cita es atendida por un solo doctor.
+
+  - Relaciones:
+
+    - **Paciente** - **Cita** (1 - N)
+    - **Doctor** - **Cita** (1 - N)
+
+    - En el caso de la relación entre **Habitación** y **Paciente** se decidió crear una tabla intermedia que permitiera relacionar los elementos, dado que una habitación puede tener muchos pacientes y un paciente puede estar en una habitación a la vez, pero en su historia clínica puede haber pasado por muchas habitaciones.
+
+      - Problema relaciones N - N
+
+        - **Habitación** - **Paciente** (N - N)
+
+      - Solución propuesta
+
+        - **Habitación** - **Habitación x Paciente** (1 - N)
+        - **Paciente** - **Habitación x Paciente** (1 - N)
+
+    - En el caso de la relación entre **Tratamiento**, **Paciente** y **Doctor** se decidió crear una tabla intermedia que permitiera relacionar los elementos, dado que un tratamiento puede ser asignado a muchos doctores, un doctor puede acompañar muchos tratamientos y un tratamiento puede ser asignado a muchos pacientes.
+
+      - Problema relaciones N - N
+
+        - **Tratamiento** - **Doctor** (N - N)
+        - **Tratamiento** - **Paciente** (N - N)
+
+      - Solución propuesta
+
+        - **Tratamiento** - **Tratamiento x Doctor x Paciente** (1 - N)
+        - **Doctor** - **Tratamiento x Doctor x Paciente** (1 - N)
+        - **Paciente** - **Tratamiento x Doctor x Paciente** (1 - N)
+
+  - Atributos:
+
+    - **Paciente**
+
+      - **id(PK):** Identificador único del paciente
+      - **nombre:** Nombre del paciente
+      - **fechaNacimiento:** Fecha de nacimiento del paciente
+      - **genero:** Género del paciente
+      - **direccion:** Dirección de residencia del paciente
+      - **numeroTelefono:** Número de teléfono del paciente
+      - **tipoSangre:** Tipo de sangre del paciente
+
+    - **Doctor**
+
+      - **id(PK):** Identificador único del doctor
+      - **nombre:** Nombre del doctor
+      - **especialidad:** Especialidad del doctor
+      - **numeroTelefono:** Número de teléfono del doctor
+      - **direccion:** Dirección de residencia del doctor
+
+    - **Tratamiento**
+
+      - **id(PK):** Identificador único del tratamiento
+      - **nombre:** Nombre del tratamiento
+      - **descripcion:** Descripción del tratamiento
+      - **duración:** Duración del tratamiento
+
+    - **Habitación**
+
+      - **id(PK):** Identificador único de la habitación
+      - **tipo:** Tipo de habitación
+      - **capacidad:** Cantidad de pacientes que puede tener la habitación
+      - **estado:** Estado de la habitación (Disponible, Ocupada, Mantenimiento, Inhabilitada)
+
+    - **Cita**
+
+      - **id(PK):** Identificador único de la cita
+      - **idPaciente(FK):** Identificador del paciente
+      - **idDoctor(FK):** Identificador del doctor
+      - **fecha:** Fecha y hora de la cita
+      - **estado:** Estado de la cita (Pendiente, Cancelada, Realizada)
+      - **descripcion:** Descripción de la cita
+
+    - **Habitación x Paciente**
+
+      - **id(PK):** Identificador único de la relación
+      - **idHabitacion(FK):** Identificador de la habitación
+      - **idPaciente(FK):** Identificador del paciente
+      - **fechaIngreso:** Fecha de ingreso del paciente a la habitación
+      - **fechaSalida:** Fecha de salida del paciente de la habitación
+
+    - **Tratamiento x Doctor x Paciente**
+
+      - **id(PK):** Identificador único de la relación
+      - **idTratamiento(FK):** Identificador del tratamiento
+      - **idDoctor(FK):** Identificador del doctor
+      - **idPaciente(FK):** Identificador del paciente
+      - **fechaInicio:** Fecha de inicio del tratamiento
+      - **fechaFin:** Fecha de finalización del tratamiento
+
+- **✅ Modelo ER:**
+  <div align="center">
+    <img src="/3/ERHospital.jpeg"/>
+  </div>
