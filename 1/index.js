@@ -1,11 +1,11 @@
-// Locations of main office
-const BASE_ADDRESS = "1300 Montgomery Highway, Vestavia Hills AL 35216";
-
 import { calcDistance, getLocationInfo } from "./utils.js";
 
 import { mergeSort } from "./mergeSort.js";
 import { parsedAddresses } from "./parsedAddresses.js";
+import { writeFileSync } from "fs";
 
+// Locations of main office
+const BASE_ADDRESS = "1300 Montgomery Highway, Vestavia Hills AL 35216";
 // Get the lat and lng of the base address
 const parsedBaseAddress = getLocationInfo(BASE_ADDRESS);
 
@@ -25,9 +25,13 @@ parsedBaseAddress.then((baseAddress) => {
 
   // Sort the array by distance
   mergeSort(distances, 0, distances.length - 1, "distance");
-  console.log(distances);
-  
+
+  // Write the sorted array to a file
+  writeFileSync("./1/sortedAddresses.json", JSON.stringify(distances));
+
   // Sort the array by postal code after sorting by distance
-  // mergeSort(distances, 0, distances.length - 1, "postalCode");
-  // console.log(distances);
+  mergeSort(distances, 0, distances.length - 1, "postalCode");
+
+  // Write the sorted array to a file
+  writeFileSync("./1/sortedAddressesByPostalCode.json", JSON.stringify(distances));
 });

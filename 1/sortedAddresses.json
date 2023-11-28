@@ -1,0 +1,1465 @@
+[
+  {
+    "lat": 33.4469749,
+    "lng": -86.8209358,
+    "address": "209 Lakeshore Pkwy, Homewood, AL 35209, USA",
+    "postalCode": "35209",
+    "distance": 0.001183769618600099
+  },
+  {
+    "lat": 33.4679023,
+    "lng": -86.82164180000001,
+    "address": "312 Palisades Blvd, Birmingham, AL 35209, USA",
+    "postalCode": "United States",
+    "distance": 0.002430748375120535
+  },
+  {
+    "lat": 33.3618158,
+    "lng": -86.8248581,
+    "address": "2780 John Hawkins Pkwy, Hoover, AL 35244, USA",
+    "postalCode": "35244",
+    "distance": 0.005556791085699376
+  },
+  {
+    "lat": 33.3413551,
+    "lng": -86.7911282,
+    "address": "2181 Pelham Pkwy, Pelham, AL 35124, USA",
+    "postalCode": "35124",
+    "distance": 0.007619083310799424
+  },
+  {
+    "lat": 33.4221868,
+    "lng": -86.67610499999999,
+    "address": "5335 US-280, Birmingham, AL 35242, USA",
+    "postalCode": "35242",
+    "distance": 0.013432156581171912
+  },
+  {
+    "lat": 33.5290088,
+    "lng": -86.7200743,
+    "address": "1600 Montclair Rd, Birmingham, AL 35210, USA",
+    "postalCode": "United States",
+    "distance": 0.015221746088421466
+  },
+  {
+    "lat": 33.4692591,
+    "lng": -86.91817429999999,
+    "address": "Bellview Plaza West Shopping Center, 7100 Aaron Aronov Dr, Fairfield, AL 35064, USA",
+    "postalCode": "United States",
+    "distance": 0.017614738289967524
+  },
+  {
+    "lat": 33.4606277,
+    "lng": -86.968353,
+    "address": "1007 Red Farmer Dr, Hueytown, AL 35023, USA",
+    "postalCode": "35023",
+    "distance": 0.03218628488035768
+  },
+  {
+    "lat": 33.5901883,
+    "lng": -86.7004457,
+    "address": "9248 Parkway E, Birmingham, AL 35206, USA",
+    "postalCode": "United States",
+    "distance": 0.03444765146485067
+  },
+  {
+    "lat": 33.3478202,
+    "lng": -86.6190613,
+    "address": "16077 US-280, Chelsea, AL 35043, USA",
+    "postalCode": "35043",
+    "distance": 0.03637818925346035
+  },
+  {
+    "lat": 33.2355389,
+    "lng": -86.8011299,
+    "address": "630 Colonial Promenade Pkwy, Alabaster, AL 35007, USA",
+    "postalCode": "35007",
+    "distance": 0.03737454851688868
+  },
+  {
+    "lat": 33.6471803,
+    "lng": -86.8229535,
+    "address": "890 Odum Rd, Gardendale, AL 35071, USA",
+    "postalCode": "35071",
+    "distance": 0.048729139235571636
+  },
+  {
+    "lat": 33.3613017,
+    "lng": -87.0021281,
+    "address": "750 Academy Dr, Bessemer, AL 35022, USA",
+    "postalCode": "35022",
+    "distance": 0.048762893696486634
+  },
+  {
+    "lat": 33.6408411,
+    "lng": -86.63049300000002,
+    "address": "5919 Trussville Crossings Pkwy, Birmingham, AL 35235, USA",
+    "postalCode": "35235",
+    "distance": 0.07105660946631741
+  },
+  {
+    "lat": 33.1460285,
+    "lng": -86.7520085,
+    "address": "5100 US-31, Calera, AL 35040, USA",
+    "postalCode": "35040",
+    "distance": 0.0814542369986488
+  },
+  {
+    "lat": 33.5621694,
+    "lng": -86.5189736,
+    "address": "8551 Whitfield Ave, Leeds, AL 35094, USA",
+    "postalCode": "35094",
+    "distance": 0.09227664844353409
+  },
+  {
+    "lat": 33.6096563,
+    "lng": -86.2771167,
+    "address": "165 Vaughan Ln, Pell City, AL 35125, USA",
+    "postalCode": "35125",
+    "distance": 0.29768896708805753
+  },
+  {
+    "lat": 32.9641663,
+    "lng": -87.1720479,
+    "address": "10675 AL-5, Brent, AL 35034, USA",
+    "postalCode": "35034",
+    "distance": 0.3603069701578019
+  },
+  {
+    "lat": 33.8431166,
+    "lng": -87.25449449999999,
+    "address": "1801 Hwy 78 E, Jasper, AL 35501, USA",
+    "postalCode": "35501",
+    "distance": 0.3858565727520157
+  },
+  {
+    "lat": 32.8168235,
+    "lng": -86.6092924,
+    "address": "1415 7th St S, Clanton, AL 35045, USA",
+    "postalCode": "35045",
+    "distance": 0.4076362634824397
+  },
+  {
+    "lat": 33.9710112,
+    "lng": -86.4426501,
+    "address": "2453 2nd Ave E, Oneonta, AL 35121, USA",
+    "postalCode": "35121",
+    "distance": 0.4160881390995462
+  },
+  {
+    "lat": 34.148948,
+    "lng": -86.843622,
+    "address": "626 Olive St SW, Cullman, AL 35055, USA",
+    "postalCode": "35055",
+    "distance": 0.5215272456090484
+  },
+  {
+    "lat": 33.235497,
+    "lng": -87.615996,
+    "address": "5710 McFarland Blvd, Northport, AL 35476, USA",
+    "postalCode": "35476",
+    "distance": 0.7165662255002394
+  },
+  {
+    "lat": 33.9931147,
+    "lng": -86.0943083,
+    "address": "973 Gilbert Ferry Rd SE, Attalla, AL 35954, USA",
+    "postalCode": "35954",
+    "distance": 0.8051579453238209
+  },
+  {
+    "lat": 32.9413287,
+    "lng": -85.9759495,
+    "address": "2643 US-280, Alexander City, AL 35010, USA",
+    "postalCode": "35010",
+    "distance": 0.9031205996754119
+  },
+  {
+    "lat": 34.341457,
+    "lng": -86.500644,
+    "address": "1450 N Brindlee Mountain Pkwy, Arab, AL 35016, USA",
+    "postalCode": "35016",
+    "distance": 0.9180202838058547
+  },
+  {
+    "lat": 33.7801199,
+    "lng": -85.8971,
+    "address": "11697 U.S. Hwy 431, Alexandria, AL 36250, USA",
+    "postalCode": "36250",
+    "distance": 0.9240665040538144
+  },
+  {
+    "lat": 33.5990088,
+    "lng": -85.8322896,
+    "address": "92 Plaza Ln, Oxford, AL 36203, USA",
+    "postalCode": "36203",
+    "distance": 0.9497288245106607
+  },
+  {
+    "lat": 34.0126461,
+    "lng": -85.98711759999999,
+    "address": "340 E Meighan Blvd, Gadsden, AL 35903, USA",
+    "postalCode": "35903",
+    "distance": 0.9886132903840164
+  },
+  {
+    "lat": 32.4946877,
+    "lng": -86.39798479999999,
+    "address": "145 Kelley Blvd, Millbrook, AL 36054, USA",
+    "postalCode": "36054",
+    "distance": 1.0273743934777655
+  },
+  {
+    "lat": 33.7200297,
+    "lng": -85.8201445,
+    "address": "5560 McClellan Blvd, Anniston, AL 36206, USA",
+    "postalCode": "36206",
+    "distance": 1.0290660734484158
+  },
+  {
+    "lat": 34.4532856,
+    "lng": -86.9467519,
+    "address": "1201 Hwy 31 NW, Hartselle, AL 35640, USA",
+    "postalCode": "35640",
+    "distance": 1.0739023703570643
+  },
+  {
+    "lat": 33.7315448,
+    "lng": -87.8087661,
+    "address": "3186 AL-171, Fayette, AL 35555, USA",
+    "postalCode": "35555",
+    "distance": 1.1259259885756998
+  },
+  {
+    "lat": 33.7880537,
+    "lng": -85.7652227,
+    "address": "1625 Pelham Rd S, Jacksonville, AL 36265, USA",
+    "postalCode": "36265",
+    "distance": 1.1830853674361022
+  },
+  {
+    "lat": 34.2373899,
+    "lng": -87.5975757,
+    "address": "42417 AL-195, Haleyville, AL 35565, USA",
+    "postalCode": "35565",
+    "distance": 1.3033152664609151
+  },
+  {
+    "lat": 34.5565103,
+    "lng": -86.9958752,
+    "address": "2800 Spring Ave SW, Decatur, AL 35603, USA",
+    "postalCode": "35603",
+    "distance": 1.3137296355322028
+  },
+  {
+    "lat": 34.4954417,
+    "lng": -87.2769098,
+    "address": "15445 AL-24, Moulton, AL 35650, USA",
+    "postalCode": "35650",
+    "distance": 1.3733762928427633
+  },
+  {
+    "lat": 32.3708254,
+    "lng": -86.26823279999999,
+    "address": "851 Ann St, Montgomery, AL 36107, USA",
+    "postalCode": "36107",
+    "distance": 1.393117162512652
+  },
+  {
+    "lat": 32.3852015,
+    "lng": -86.1848873,
+    "address": "6495 Atlanta Hwy, Montgomery, AL 36117, USA",
+    "postalCode": "36117",
+    "distance": 1.4571334928312454
+  },
+  {
+    "lat": 34.6158511,
+    "lng": -86.5706988,
+    "address": "Southeast Plaza Shopping Center, 11610 Memorial Pkwy SW, Huntsville, AL 35803, USA",
+    "postalCode": "United States",
+    "distance": 1.4583665547669253
+  },
+  {
+    "lat": 32.3258962,
+    "lng": -86.23204659999999,
+    "address": "3801 Eastern Blvd, Montgomery, AL 36116, USA",
+    "postalCode": "36116",
+    "distance": 1.5293921730578925
+  },
+  {
+    "lat": 34.6838836,
+    "lng": -86.74116590000001,
+    "address": "8650 Madison Blvd, Madison, AL 35758, USA",
+    "postalCode": "35758",
+    "distance": 1.5782033294794675
+  },
+  {
+    "lat": 32.3546687,
+    "lng": -86.13494949999999,
+    "address": "10710 Chantilly Pkwy, Montgomery, AL 36117, USA",
+    "postalCode": "36117",
+    "distance": 1.5848957155954242
+  },
+  {
+    "lat": 34.6576415,
+    "lng": -86.4854392,
+    "address": "330 Sutton Rd, Owens Cross Roads, AL 35763, USA",
+    "postalCode": "35763",
+    "distance": 1.6043160896454767
+  },
+  {
+    "lat": 34.7063289,
+    "lng": -86.5906231,
+    "address": "2900 S Memorial Pkwy, Huntsville, AL 35801, USA",
+    "postalCode": "35801",
+    "distance": 1.6729708501171414
+  },
+  {
+    "lat": 34.1628289,
+    "lng": -85.7126492,
+    "address": "1950 W Main St, Centre, AL 35960, USA",
+    "postalCode": "35960",
+    "distance": 1.7036485769948835
+  },
+  {
+    "lat": 34.7457897,
+    "lng": -86.67589199999999,
+    "address": "6140 University Dr, Huntsville, AL 35806, USA",
+    "postalCode": "35806",
+    "distance": 1.748323980144176
+  },
+  {
+    "lat": 34.7649778,
+    "lng": -86.59249849999999,
+    "address": "2200 Sparkman Dr NW, Huntsville, AL 35810, USA",
+    "postalCode": "35810",
+    "distance": 1.8255295346228213
+  },
+  {
+    "lat": 34.7886356,
+    "lng": -86.9589462,
+    "address": "1011 US Hwy 72 E, Athens, AL 35611, USA",
+    "postalCode": "35611",
+    "distance": 1.8775192125432532
+  },
+  {
+    "lat": 34.1196445,
+    "lng": -87.9924214,
+    "address": "1706 Military St S, Hamilton, AL 35570, USA",
+    "postalCode": "35570",
+    "distance": 1.918925592424035
+  },
+  {
+    "lat": 32.4929354,
+    "lng": -87.8494517,
+    "address": "969 US-80, Demopolis, AL 36732, USA",
+    "postalCode": "36732",
+    "distance": 1.9941222732569799
+  },
+  {
+    "lat": 34.4399919,
+    "lng": -85.7620185,
+    "address": "2001 Glenn Blvd SW, Fort Payne, AL 35968, USA",
+    "postalCode": "35968",
+    "distance": 2.0833293449000685
+  },
+  {
+    "lat": 32.5709803,
+    "lng": -85.49652100000002,
+    "address": "1717 S College St, Auburn, AL 36832, USA",
+    "postalCode": "36832",
+    "distance": 2.413385363250275
+  },
+  {
+    "lat": 32.6379329,
+    "lng": -85.4219181,
+    "address": "2900 Pepperell Pkwy, Opelika, AL 36801, USA",
+    "postalCode": "36801",
+    "distance": 2.5018550347247275
+  },
+  {
+    "lat": 31.8493659,
+    "lng": -86.6472088,
+    "address": "501 Willow Ln, Greenville, AL 36037, USA",
+    "postalCode": "36037",
+    "distance": 2.5150188286713977
+  },
+  {
+    "lat": 34.7476371,
+    "lng": -87.6736778,
+    "address": "517 W Avalon Ave, Muscle Shoals, AL 35661, USA",
+    "postalCode": "35661",
+    "distance": 2.5174230877159074
+  },
+  {
+    "lat": 34.8341568,
+    "lng": -87.6251166,
+    "address": "3100 Hough Rd, Florence, AL 35630, USA",
+    "postalCode": "35630",
+    "distance": 2.669857542146058
+  },
+  {
+    "lat": 32.5013137,
+    "lng": -85.0434437,
+    "address": "3700 US-280 431 n, Phenix City, AL 36867, USA",
+    "postalCode": "United States",
+    "distance": 3.9167615888897034
+  },
+  {
+    "lat": 31.4805983,
+    "lng": -87.3282674,
+    "address": "3371 S Alabama Ave, Monroeville, AL 36460, USA",
+    "postalCode": "36460",
+    "distance": 4.082638534138951
+  },
+  {
+    "lat": 31.3048098,
+    "lng": -86.5011549,
+    "address": "540 Western Bypass, Andalusia, AL 36420, USA",
+    "postalCode": "36420",
+    "distance": 4.595141039690246
+  },
+  {
+    "lat": 31.559566,
+    "lng": -87.8756883,
+    "address": "4206 N College Ave, Jackson, AL 36545, USA",
+    "postalCode": "36545",
+    "distance": 4.668201785214475
+  },
+  {
+    "lat": 31.843662,
+    "lng": -85.1711041,
+    "address": "3176 S Eufaula Ave, Eufaula, AL 36027, USA",
+    "postalCode": "36027",
+    "distance": 5.1388821174522015
+  },
+  {
+    "lat": 31.1387393,
+    "lng": -87.0685361,
+    "address": "2041 Douglas Ave, Brewton, AL 36426, USA",
+    "postalCode": "36426",
+    "distance": 5.320214313687837
+  },
+  {
+    "lat": 31.315562,
+    "lng": -85.8274507,
+    "address": "600 Boll Weevil Cir, Enterprise, AL 36330, USA",
+    "postalCode": "36330",
+    "distance": 5.395110141998173
+  },
+  {
+    "lat": 31.0514132,
+    "lng": -85.8993835,
+    "address": "1608 W Magnolia Ave, Geneva, AL 36340, USA",
+    "postalCode": "36340",
+    "distance": 6.447653022535459
+  },
+  {
+    "lat": 31.2680202,
+    "lng": -85.44126469999999,
+    "address": "4310 Montgomery Hwy, Dothan, AL 36303, USA",
+    "postalCode": "36303",
+    "distance": 6.492282724809565
+  },
+  {
+    "lat": 31.1789526,
+    "lng": -85.4044898,
+    "address": "3300 S Oates St, Dothan, AL 36301, USA",
+    "postalCode": "36301",
+    "distance": 6.9857837909291876
+  },
+  {
+    "lat": 30.8860401,
+    "lng": -87.79016089999999,
+    "address": "701 McMeans Ave, Bay Minette, AL 36507, USA",
+    "postalCode": "36507",
+    "distance": 7.461492486502382
+  },
+  {
+    "lat": 30.6254979,
+    "lng": -87.90589659999999,
+    "address": "27520 US-98, Daphne, AL 36526, USA",
+    "postalCode": "36526",
+    "distance": 9.098765274012852
+  },
+  {
+    "lat": 30.683965,
+    "lng": -88.124926,
+    "address": "101 S Beltline Hwy, Mobile, AL 36606, USA",
+    "postalCode": "United States",
+    "distance": 9.31040441715304
+  },
+  {
+    "lat": 30.5221248,
+    "lng": -87.8491078,
+    "address": "10040 Co Rd 48, Fairhope, AL 36532, USA",
+    "postalCode": "36532",
+    "distance": 9.565681280975152
+  },
+  {
+    "lat": 30.6507514,
+    "lng": -88.16159449999999,
+    "address": "1970 S University Blvd, Mobile, AL 36609, USA",
+    "postalCode": "United States",
+    "distance": 9.592939013215261
+  },
+  {
+    "lat": 30.6758168,
+    "lng": -88.22431309999999,
+    "address": "685 Schillinger Rd, Mobile, AL 36695, USA",
+    "postalCode": "United States",
+    "distance": 9.630063524350856
+  },
+  {
+    "lat": 30.6415048,
+    "lng": -88.18941919999999,
+    "address": "6350 Cottage Hill Rd, Mobile, AL 36609, USA",
+    "postalCode": "United States",
+    "distance": 9.721397766168206
+  },
+  {
+    "lat": 30.6389562,
+    "lng": -88.24627040000001,
+    "address": "2500 Dawes Rd, Mobile, AL 36695, USA",
+    "postalCode": "United States",
+    "distance": 9.897753014876283
+  },
+  {
+    "lat": 30.5937797,
+    "lng": -88.1629852,
+    "address": "5245 Rangeline Service Rd, Mobile, AL 36619, USA",
+    "postalCode": "United States",
+    "distance": 9.916518643703817
+  },
+  {
+    "lat": 30.3824199,
+    "lng": -87.6863106,
+    "address": "2200 S McKenzie St, Foley, AL 36535, USA",
+    "postalCode": "36535",
+    "distance": 10.079564209851272
+  },
+  {
+    "lat": 30.2673384,
+    "lng": -87.68615659999999,
+    "address": "170 Fort Morgan Road, Gulf Shores, AL 36542, USA",
+    "postalCode": "36542",
+    "distance": 10.793659570671299
+  },
+  {
+    "lat": 42.0969209,
+    "lng": -79.3004279,
+    "address": "350 E Fairmount Ave, Lakewood, NY 14750, USA",
+    "postalCode": "United States",
+    "distance": 131.26009051690372
+  },
+  {
+    "lat": 42.4537869,
+    "lng": -79.3132826,
+    "address": "10401 Bennett Rd, Fredonia, NY 14063, USA",
+    "postalCode": "United States",
+    "distance": 137.381839521852
+  },
+  {
+    "lat": 42.74348579999999,
+    "lng": -78.8724144,
+    "address": "5360 Southwestern Blvd, Hamburg, NY 14075, USA",
+    "postalCode": "United States",
+    "distance": 149.4833809371491
+  },
+  {
+    "lat": 42.9052065,
+    "lng": -78.7781608,
+    "address": "100 Thruway Plaza Dr, Cheektowaga, NY 14225, USA",
+    "postalCode": "United States",
+    "distance": 154.0240905541769
+  },
+  {
+    "lat": 42.8825114,
+    "lng": -78.6945728,
+    "address": "4975 Transit Rd, Depew, NY 14043, USA",
+    "postalCode": "United States",
+    "distance": 154.94114120476104
+  },
+  {
+    "lat": 42.8860163,
+    "lng": -78.6969235,
+    "address": "5033 Transit Rd, Depew, NY 14043, USA",
+    "postalCode": "14043",
+    "distance": 154.96936035544888
+  },
+  {
+    "lat": 43.00861889999999,
+    "lng": -78.8186202,
+    "address": "2055 Niagara Falls Blvd, Buffalo, NY 14228, USA",
+    "postalCode": "United States",
+    "distance": 155.34795479451734
+  },
+  {
+    "lat": 43.14393,
+    "lng": -78.69358460000001,
+    "address": "5783 S Transit Rd, Lockport, NY 14094, USA",
+    "postalCode": "United States",
+    "distance": 159.9683210786228
+  },
+  {
+    "lat": 42.3482668,
+    "lng": -77.6698753,
+    "address": "1000 NY-36, Hornell, NY 14843, USA",
+    "postalCode": "14843",
+    "distance": 162.76966649825283
+  },
+  {
+    "lat": 43.01358070000001,
+    "lng": -78.20791489999999,
+    "address": "4133 Veterans Memorial Dr, Batavia, NY 14020, USA",
+    "postalCode": "United States",
+    "distance": 165.5545619420377
+  },
+  {
+    "lat": 42.7977478,
+    "lng": -77.7861946,
+    "address": "4300 Lakeville Rd, Geneseo, NY 14454, USA",
+    "postalCode": "United States",
+    "distance": 168.88151866161854
+  },
+  {
+    "lat": 43.2342299,
+    "lng": -78.22592,
+    "address": "13858 NY-31, Albion, NY 14411, USA",
+    "postalCode": "United States",
+    "distance": 169.52428309666186
+  },
+  {
+    "lat": 43.19718930000001,
+    "lng": -77.92888599999999,
+    "address": "6265 Brockport Spencerport Rd, Brockport, NY 14420, USA",
+    "postalCode": "United States",
+    "distance": 173.97620291810557
+  },
+  {
+    "lat": 42.157078,
+    "lng": -76.854164,
+    "address": "1400 County Rd 64, Horseheads, NY 14845, USA",
+    "postalCode": "United States",
+    "distance": 174.94268963199752
+  },
+  {
+    "lat": 43.2146781,
+    "lng": -77.7242837,
+    "address": "100 Elmridge Center Dr, Greece, NY 14626, USA",
+    "postalCode": "United States",
+    "distance": 177.98680564227232
+  },
+  {
+    "lat": 42.8757365,
+    "lng": -77.24310129999999,
+    "address": "3191 Co Rd 10, Canandaigua, NY 14424, USA",
+    "postalCode": "United States",
+    "distance": 180.4257125941557
+  },
+  {
+    "lat": 43.0664192,
+    "lng": -77.3579251,
+    "address": "425 NY-31, Macedon, NY 14502, USA",
+    "postalCode": "United States",
+    "distance": 181.88521195756752
+  },
+  {
+    "lat": 42.8595768,
+    "lng": -77.02117179999999,
+    "address": "990 NY-5 #20, Geneva, NY 14456, USA",
+    "postalCode": "New York",
+    "distance": 184.408187731437
+  },
+  {
+    "lat": 42.427751,
+    "lng": -76.5137766,
+    "address": "135 Fairgrounds Memorial Pkwy, Ithaca, NY 14850, USA",
+    "postalCode": "14850",
+    "distance": 186.62222965668542
+  },
+  {
+    "lat": 42.1153086,
+    "lng": -75.9468196,
+    "address": "2 Gannett Dr, Johnson City, NY 13790, USA",
+    "postalCode": "United States",
+    "distance": 193.07230231023513
+  },
+  {
+    "lat": 42.57341,
+    "lng": -76.2147772,
+    "address": "872 NY-13, Cortland, NY 13045, USA",
+    "postalCode": "United States",
+    "distance": 195.50070900260522
+  },
+  {
+    "lat": 42.9540806,
+    "lng": -76.5481875,
+    "address": "297 Grant Ave, Auburn, NY 13021, USA",
+    "postalCode": "13021",
+    "distance": 195.66608030389088
+  },
+  {
+    "lat": 43.0410539,
+    "lng": -76.274485,
+    "address": "5399 W Genesee St, Camillus, NY 13031, USA",
+    "postalCode": "United States",
+    "distance": 203.01289273780054
+  },
+  {
+    "lat": 43.3236002,
+    "lng": -76.44874879999999,
+    "address": "1818 State Rte 3, Fulton, NY 13069, USA",
+    "postalCode": "United States",
+    "distance": 204.8894147915775
+  },
+  {
+    "lat": 43.18816289999999,
+    "lng": -76.240273,
+    "address": "3949 NY-31, Clay, NY 13041, USA",
+    "postalCode": "United States",
+    "distance": 206.58348783197837
+  },
+  {
+    "lat": 43.0611603,
+    "lng": -76.06086979999999,
+    "address": "6438 Basile Rowe, East Syracuse, NY 13057, USA",
+    "postalCode": "United States",
+    "distance": 207.93879681287132
+  },
+  {
+    "lat": 43.1611203,
+    "lng": -76.11736259999999,
+    "address": "8064 Brewerton Rd, Cicero, NY 13039, USA",
+    "postalCode": "United States",
+    "distance": 208.66527065119263
+  },
+  {
+    "lat": 43.2911942,
+    "lng": -76.1284166,
+    "address": "3018 East Ave, Central Square, NY 13036, USA",
+    "postalCode": "United States",
+    "distance": 210.97820452094408
+  },
+  {
+    "lat": 41.6668381,
+    "lng": -74.6791915,
+    "address": "41 Anawana Lake Rd, Monticello, NY 12701, USA",
+    "postalCode": "United States",
+    "distance": 214.5837401973974
+  },
+  {
+    "lat": 41.4549974,
+    "lng": -74.3787239,
+    "address": "470 NY-211, Middletown, NY 10940, USA",
+    "postalCode": "United States",
+    "distance": 218.50743229905171
+  },
+  {
+    "lat": 41.1132707,
+    "lng": -74.1069282,
+    "address": "250 NY-59, Airmont, NY 10901, USA",
+    "postalCode": "New York",
+    "distance": 219.96009447135475
+  },
+  {
+    "lat": 41.3177995,
+    "lng": -74.1489376,
+    "address": "288 Larkin Dr, Monroe, NY 10950, USA",
+    "postalCode": "United States",
+    "distance": 222.08137841600723
+  },
+  {
+    "lat": 43.09525439999999,
+    "lng": -75.3124285,
+    "address": "4765 Commercial Dr, New Hartford, NY 13413, USA",
+    "postalCode": "United States",
+    "distance": 225.21992406961323
+  },
+  {
+    "lat": 41.4974076,
+    "lng": -74.07386369999999,
+    "address": "1201 NY-300, Newburgh, NY 12550, USA",
+    "postalCode": "United States",
+    "distance": 226.8514889189765
+  },
+  {
+    "lat": 40.7268723,
+    "lng": -73.5437687,
+    "address": "2465 Hempstead Tpke, East Meadow, NY 11554, USA",
+    "postalCode": "United States",
+    "distance": 228.77512592178644
+  },
+  {
+    "lat": 41.3106637,
+    "lng": -73.8667159,
+    "address": "3133 E Main St, Mohegan Lake, NY 10547, USA",
+    "postalCode": "United States",
+    "distance": 229.18468037291825
+  },
+  {
+    "lat": 40.68327960000001,
+    "lng": -73.4337443,
+    "address": "200 Sunrise Mall, Massapequa, NY 11758, USA",
+    "postalCode": "United States",
+    "distance": 231.06805060437182
+  },
+  {
+    "lat": 43.0215816,
+    "lng": -74.9976751,
+    "address": "103 N Caroline St, Herkimer, NY 13350, USA",
+    "postalCode": "United States",
+    "distance": 231.12644483087303
+  },
+  {
+    "lat": 41.5307803,
+    "lng": -73.897165,
+    "address": "2400 US-9, Fishkill, NY 12524, USA",
+    "postalCode": "United States",
+    "distance": 231.9168717655432
+  },
+  {
+    "lat": 40.726704,
+    "lng": -73.4232535,
+    "address": "901 Broadhollow Rd, Farmingdale, NY 11735, USA",
+    "postalCode": "United States",
+    "distance": 231.9803769609817
+  },
+  {
+    "lat": 44.0406753,
+    "lng": -75.8443171,
+    "address": "25737 US-11, Evans Mills, NY 13637, USA",
+    "postalCode": "United States",
+    "distance": 232.4631718691955
+  },
+  {
+    "lat": 43.7735689,
+    "lng": -75.4779841,
+    "address": "7155 NY-12, Lowville, NY 13367, USA",
+    "postalCode": "United States",
+    "distance": 235.0204972315596
+  },
+  {
+    "lat": 41.096106,
+    "lng": -73.449511,
+    "address": "680 Connecticut Ave, Norwalk, CT 06854, USA",
+    "postalCode": "06854",
+    "distance": 236.80731295620566
+  },
+  {
+    "lat": 40.8118087,
+    "lng": -73.28939989999999,
+    "address": "85 Crooked Hill Rd, Commack, NY 11725, USA",
+    "postalCode": "United States",
+    "distance": 236.8265978510675
+  },
+  {
+    "lat": 41.97267,
+    "lng": -73.9855741,
+    "address": "601 Frank Sottile Blvd, Kingston, NY 12401, USA",
+    "postalCode": "United States",
+    "distance": 237.00044928857122
+  },
+  {
+    "lat": 42.6825208,
+    "lng": -74.4553104,
+    "address": "139 Merchant Pl, Cobleskill, NY 12043, USA",
+    "postalCode": "United States",
+    "distance": 237.8238437390812
+  },
+  {
+    "lat": 41.1584395,
+    "lng": -73.41790900000001,
+    "address": "650 Main Ave, Norwalk, CT 06851, USA",
+    "postalCode": "06851",
+    "distance": 238.61136457877944
+  },
+  {
+    "lat": 41.4059081,
+    "lng": -73.4180671,
+    "address": "67 Newtown Rd, Danbury, CT 06810, USA",
+    "postalCode": "06810",
+    "distance": 242.49414194991664
+  },
+  {
+    "lat": 40.8637999,
+    "lng": -73.0804405,
+    "address": "161 Centereach Mall, Centereach, NY 11720, USA",
+    "postalCode": "United States",
+    "distance": 243.2836008073118
+  },
+  {
+    "lat": 42.2124896,
+    "lng": -73.88288630000001,
+    "address": "30 Catskill Cmns, Catskill, NY 12414, USA",
+    "postalCode": "United States",
+    "distance": 243.79665029961296
+  },
+  {
+    "lat": 41.5514339,
+    "lng": -73.4180671,
+    "address": "164 Danbury Rd, New Milford, CT 06776, USA",
+    "postalCode": "06776",
+    "distance": 244.83711643983173
+  },
+  {
+    "lat": 40.8801978,
+    "lng": -72.94700499999999,
+    "address": "750 Middle Country Rd, Middle Island, NY 11953, USA",
+    "postalCode": "United States",
+    "distance": 247.20468695701868
+  },
+  {
+    "lat": 41.2014675,
+    "lng": -73.1195311,
+    "address": "150 Barnum Avenue Cutoff, Stratford, CT 06614, USA",
+    "postalCode": "06614",
+    "distance": 247.34840140050846
+  },
+  {
+    "lat": 43.0611946,
+    "lng": -74.3215374,
+    "address": "233 5th Ave, Gloversville, NY 12078, USA",
+    "postalCode": "United States",
+    "distance": 248.29412188273915
+  },
+  {
+    "lat": 41.2914878,
+    "lng": -73.11301569999999,
+    "address": "465 Bridgeport Ave, Shelton, CT 06484, USA",
+    "postalCode": "06484",
+    "distance": 248.93413297963878
+  },
+  {
+    "lat": 42.9636465,
+    "lng": -74.1850603,
+    "address": "127 Sanford farms shopping Center, Amsterdam, NY 12010, USA",
+    "postalCode": "United States",
+    "distance": 249.8468053220427
+  },
+  {
+    "lat": 41.2380159,
+    "lng": -73.0315813,
+    "address": "1365 Boston Post Rd, Milford, CT 06460, USA",
+    "postalCode": "06460",
+    "distance": 250.33059176325574
+  },
+  {
+    "lat": 41.3118395,
+    "lng": -73.0531377,
+    "address": "656 New Haven Ave, Derby, CT 06418, USA",
+    "postalCode": "06418",
+    "distance": 250.89629637273435
+  },
+  {
+    "lat": 41.2704718,
+    "lng": -72.9781501,
+    "address": "515 Saw Mill Rd, West Haven, CT 06516, USA",
+    "postalCode": "06516",
+    "distance": 252.31187309637798
+  },
+  {
+    "lat": 42.60870999999999,
+    "lng": -73.7919505,
+    "address": "311 Rte 9W, Glenmont, NY 12077, USA",
+    "postalCode": "United States",
+    "distance": 253.27036012935156
+  },
+  {
+    "lat": 42.6949314,
+    "lng": -73.8471869,
+    "address": "141 Washington Ave Ext, Albany, NY 12205, USA",
+    "postalCode": "United States",
+    "distance": 253.4277500973493
+  },
+  {
+    "lat": 42.8417369,
+    "lng": -73.944432,
+    "address": "200 Dutch Meadows Ln, Glenville, NY 12302, USA",
+    "postalCode": "United States",
+    "distance": 253.66183898665992
+  },
+  {
+    "lat": 41.4700484,
+    "lng": -73.0286186,
+    "address": "1100 New Haven Rd, Naugatuck, CT 06770, USA",
+    "postalCode": "06770",
+    "distance": 254.0900327207702
+  },
+  {
+    "lat": 41.3736477,
+    "lng": -72.91900799999999,
+    "address": "2300 Dixwell Ave, Hamden, CT 06514, USA",
+    "postalCode": "06514",
+    "distance": 255.57813149691165
+  },
+  {
+    "lat": 41.320042,
+    "lng": -72.877175,
+    "address": "315 Foxon Blvd, New Haven, CT 06513, USA",
+    "postalCode": "United States",
+    "distance": 255.8916425267723
+  },
+  {
+    "lat": 42.64014580000001,
+    "lng": -73.7013525,
+    "address": "279 Troy Rd, Rensselaer, NY 12144, USA",
+    "postalCode": "United States",
+    "distance": 256.2122468331436
+  },
+  {
+    "lat": 41.56339029999999,
+    "lng": -73.00431979999999,
+    "address": "910 Wolcott St, Waterbury, CT 06705, USA",
+    "postalCode": "06705",
+    "distance": 256.2693952692073
+  },
+  {
+    "lat": 41.2809319,
+    "lng": -72.8308,
+    "address": "120 Commercial Pkwy, Branford, CT 06405, USA",
+    "postalCode": "06405",
+    "distance": 256.56863924748274
+  },
+  {
+    "lat": 42.75320350000001,
+    "lng": -73.7648473,
+    "address": "579 Troy-Schenectady Rd, Latham, NY 12110, USA",
+    "postalCode": "United States",
+    "distance": 256.64957031629075
+  },
+  {
+    "lat": 41.8192162,
+    "lng": -73.0779735,
+    "address": "970 Torringford St, Torrington, CT 06790, USA",
+    "postalCode": "06790",
+    "distance": 258.47142565438355
+  },
+  {
+    "lat": 42.84701099999999,
+    "lng": -73.7485212,
+    "address": "1549 US-9, Clifton Park, NY 12065, USA",
+    "postalCode": "12065",
+    "distance": 258.833424138585
+  },
+  {
+    "lat": 41.4770732,
+    "lng": -72.8112967,
+    "address": "844 N Colony Rd, Wallingford, CT 06492, USA",
+    "postalCode": "Connecticut",
+    "distance": 260.2323806522828
+  },
+  {
+    "lat": 41.6234151,
+    "lng": -72.8723633,
+    "address": "235 Queen St, Southington, CT 06489, USA",
+    "postalCode": "06489",
+    "distance": 260.905685493018
+  },
+  {
+    "lat": 41.2871201,
+    "lng": -72.6788644,
+    "address": "900 Boston Post Rd, Guilford, CT 06437, USA",
+    "postalCode": "Connecticut",
+    "distance": 260.9312977069484
+  },
+  {
+    "lat": 41.6976238,
+    "lng": -72.8976785,
+    "address": "1400 Farmington Ave, Bristol, CT 06010, USA",
+    "postalCode": "06010",
+    "distance": 261.4233327599602
+  },
+  {
+    "lat": 41.8104198,
+    "lng": -72.8535788,
+    "address": "255 W Main St, Avon, CT 06001, USA",
+    "postalCode": "06001",
+    "distance": 264.52887229769715
+  },
+  {
+    "lat": 41.605445,
+    "lng": -72.7117497,
+    "address": "161 Berlin Rd, Cromwell, CT 06416, USA",
+    "postalCode": "06416",
+    "distance": 265.1085921513935
+  },
+  {
+    "lat": 41.6629796,
+    "lng": -72.7183982,
+    "address": "Newington Plaza Shopping Center, 3164 Berlin Turnpike, Newington, CT 06111, USA",
+    "postalCode": "United States",
+    "distance": 265.8656223018778
+  },
+  {
+    "lat": 42.4648501,
+    "lng": -73.1981923,
+    "address": "555 Hubbard Ave Ste 12, Pittsfield, MA 01201, USA",
+    "postalCode": "United States",
+    "distance": 266.43987768869414
+  },
+  {
+    "lat": 41.73998479999999,
+    "lng": -72.7134398,
+    "address": "495 Flatbush Ave, Hartford, CT 06106, USA",
+    "postalCode": "United States",
+    "distance": 267.27931400327657
+  },
+  {
+    "lat": 41.6819591,
+    "lng": -72.65671619999999,
+    "address": "80 Town Line Rd, Rocky Hill, CT 06067, USA",
+    "postalCode": "06067",
+    "distance": 267.9185084036951
+  },
+  {
+    "lat": 41.2953445,
+    "lng": -72.38134459999999,
+    "address": "655 Boston Post Rd, Old Saybrook, CT 06475, USA",
+    "postalCode": "United States",
+    "distance": 269.54691483463614
+  },
+  {
+    "lat": 41.923879,
+    "lng": -72.607925,
+    "address": "69 Prospect Hill Rd, East Windsor, CT 06088, USA",
+    "postalCode": "06088",
+    "distance": 273.35203621799144
+  },
+  {
+    "lat": 41.8064746,
+    "lng": -72.5376747,
+    "address": "420 Buckland Hills Dr, Manchester, CT 06042, USA",
+    "postalCode": "United States",
+    "distance": 273.36884426507345
+  },
+  {
+    "lat": 44.9223101,
+    "lng": -74.8778285,
+    "address": "43 Stephenville St, Massena, NY 13662, USA",
+    "postalCode": "United States",
+    "distance": 274.04770991307316
+  },
+  {
+    "lat": 41.3704689,
+    "lng": -72.155682,
+    "address": "155 Parkway N, Waterford, CT 06385, USA",
+    "postalCode": "United States",
+    "distance": 277.2892568504849
+  },
+  {
+    "lat": 42.17504599999999,
+    "lng": -72.5721476,
+    "address": "591 Memorial Dr, Chicopee, MA 01020, USA",
+    "postalCode": "01020",
+    "distance": 278.69877458243474
+  },
+  {
+    "lat": 42.3416945,
+    "lng": -72.643759,
+    "address": "180 N King St, Northampton, MA 01060, USA",
+    "postalCode": "01060",
+    "distance": 279.61024383822263
+  },
+  {
+    "lat": 42.1360067,
+    "lng": -72.5069872,
+    "address": "Springfield Plaza Shopping Center, 1105 Boston Rd, Springfield, MA 01119, USA",
+    "postalCode": "Massachusetts",
+    "distance": 279.87475676384827
+  },
+  {
+    "lat": 41.3697844,
+    "lng": -72.0651487,
+    "address": "150 Gold Star Hwy, Groton, CT 06340, USA",
+    "postalCode": "Connecticut",
+    "distance": 279.93669741261
+  },
+  {
+    "lat": 41.5047984,
+    "lng": -72.1225789,
+    "address": "220 Salem Turnpike, Norwich, CT 06360, USA",
+    "postalCode": "United States",
+    "distance": 280.4110442098781
+  },
+  {
+    "lat": 42.3546249,
+    "lng": -72.55246260000001,
+    "address": "337 Russell St, Hadley, MA 01035, USA",
+    "postalCode": "01035",
+    "distance": 282.43257930447476
+  },
+  {
+    "lat": 41.7402568,
+    "lng": -72.1749329,
+    "address": "474 Boston Post Rd, North Windham, CT 06256, USA",
+    "postalCode": "United States",
+    "distance": 282.73643747222263
+  },
+  {
+    "lat": 41.5833663,
+    "lng": -71.9894052,
+    "address": "180 River Rd, Lisbon, CT 06351, USA",
+    "postalCode": "06351",
+    "distance": 285.6111208836037
+  },
+  {
+    "lat": 44.845646,
+    "lng": -74.329499,
+    "address": "3222 State St #11, Malone, NY 12953, USA",
+    "postalCode": "New York",
+    "distance": 285.6575373804274
+  },
+  {
+    "lat": 42.2376571,
+    "lng": -72.2787543,
+    "address": "352 Palmer Rd, Ware, MA 01082, USA",
+    "postalCode": "United States",
+    "distance": 288.22793322874037
+  },
+  {
+    "lat": 42.1281596,
+    "lng": -72.0599639,
+    "address": "100 Charlton Rd, Sturbridge, MA 01566, USA",
+    "postalCode": "United States",
+    "distance": 292.7093013545183
+  },
+  {
+    "lat": 41.9233519,
+    "lng": -71.8891874,
+    "address": "625 School St, Putnam, CT 06260, USA",
+    "postalCode": "United States",
+    "distance": 294.248665304054
+  },
+  {
+    "lat": 42.5886487,
+    "lng": -72.2842989,
+    "address": "555 E Main St, Orange, MA 01364, USA",
+    "postalCode": "United States",
+    "distance": 294.37400298313344
+  },
+  {
+    "lat": 42.2510263,
+    "lng": -71.93531759999999,
+    "address": "20 Soojian Dr, Leicester, MA 01524, USA",
+    "postalCode": "01524",
+    "distance": 298.55024019228296
+  },
+  {
+    "lat": 42.551348,
+    "lng": -71.99477639999999,
+    "address": "677 Timpany Blvd, Gardner, MA 01440, USA",
+    "postalCode": "01440",
+    "distance": 302.1763770530051
+  },
+  {
+    "lat": 42.2851509,
+    "lng": -71.6563963,
+    "address": "200 Otis St, Northborough, MA 01532, USA",
+    "postalCode": "United States",
+    "distance": 307.5189138642868
+  },
+  {
+    "lat": 42.4925091,
+    "lng": -71.7296017,
+    "address": "11 Jungle Rd, Leominster, MA 01453, USA",
+    "postalCode": "01453",
+    "distance": 309.0242209157648
+  },
+  {
+    "lat": 41.7954132,
+    "lng": -71.32548849999999,
+    "address": "1180 Fall River Ave, Seekonk, MA 02771, USA",
+    "postalCode": "02771",
+    "distance": 309.21038310659173
+  },
+  {
+    "lat": 42.5949057,
+    "lng": -71.7598385,
+    "address": "301 Massachusetts Ave, Lunenburg, MA 01462, USA",
+    "postalCode": "United States",
+    "distance": 309.9809723526152
+  },
+  {
+    "lat": 42.1162156,
+    "lng": -71.46536259999999,
+    "address": "250 Hartford Ave, Bellingham, MA 02019, USA",
+    "postalCode": "United States",
+    "distance": 310.3743450192771
+  },
+  {
+    "lat": 41.9331395,
+    "lng": -71.35014939999999,
+    "address": "1470 S Washington St, North Attleborough, MA 02760, USA",
+    "postalCode": "02760",
+    "distance": 310.7717818871294
+  },
+  {
+    "lat": 41.7554762,
+    "lng": -71.2179992,
+    "address": "262 Swansea Mall Dr, Swansea, MA 02777, USA",
+    "postalCode": "02777",
+    "distance": 311.8801751625907
+  },
+  {
+    "lat": 42.3729018,
+    "lng": -71.5588568,
+    "address": "280 Washington St, Hudson, MA 01749, USA",
+    "postalCode": "Massachusetts",
+    "distance": 312.04306548427985
+  },
+  {
+    "lat": 41.67171159999999,
+    "lng": -71.15865889999999,
+    "address": "374 William S Canning Blvd, Fall River, MA 02721, USA",
+    "postalCode": "02721",
+    "distance": 312.34403536630197
+  },
+  {
+    "lat": 42.3008375,
+    "lng": -71.39969359999999,
+    "address": "121 Worcester Rd, Framingham, MA 01701, USA",
+    "postalCode": "01701",
+    "distance": 315.6335227981146
+  },
+  {
+    "lat": 41.6418971,
+    "lng": -71.007876,
+    "address": "506 State Rd, North Dartmouth, MA 02747, USA",
+    "postalCode": "United States",
+    "distance": 316.5905610767279
+  },
+  {
+    "lat": 42.14236349999999,
+    "lng": -71.215029,
+    "address": "550 Providence Hwy, Walpole, MA 02081, USA",
+    "postalCode": "Massachusetts",
+    "distance": 318.56547508896983
+  },
+  {
+    "lat": 41.904485,
+    "lng": -71.0323192,
+    "address": "36 Paramount Dr, Raynham, MA 02767, USA",
+    "postalCode": "02767",
+    "distance": 320.2018946603423
+  },
+  {
+    "lat": 41.644992,
+    "lng": -70.8879561,
+    "address": "42 Fairhaven Commons Way, Fairhaven, MA 02719, USA",
+    "postalCode": "02719",
+    "distance": 320.4414084059912
+  },
+  {
+    "lat": 42.6228941,
+    "lng": -71.3607727,
+    "address": "66 Parkhurst Rd #4, Chelmsford, MA 01824, USA",
+    "postalCode": "United States",
+    "distance": 322.65160881578964
+  },
+  {
+    "lat": 42.0981889,
+    "lng": -71.056849,
+    "address": "700 Oak St, Brockton, MA 02301, USA",
+    "postalCode": "02301",
+    "distance": 322.7504712299282
+  },
+  {
+    "lat": 42.1210458,
+    "lng": -71.0300988,
+    "address": "30 Memorial Dr, Avon, MA 02322, USA",
+    "postalCode": "02322",
+    "distance": 323.989854650114
+  },
+  {
+    "lat": 42.62280519999999,
+    "lng": -71.2697883,
+    "address": "333 Main St, Tewksbury, MA 01876, USA",
+    "postalCode": "United States",
+    "distance": 325.46622184295285
+  },
+  {
+    "lat": 42.0967107,
+    "lng": -70.9678569,
+    "address": "777 Brockton Ave, Abington, MA 02351, USA",
+    "postalCode": "02351",
+    "distance": 325.53333900623136
+  },
+  {
+    "lat": 42.2361444,
+    "lng": -70.9864432,
+    "address": "301 Falls Blvd, Quincy, MA 02169, USA",
+    "postalCode": "02169",
+    "distance": 327.3821506963149
+  },
+  {
+    "lat": 41.9973971,
+    "lng": -70.8463701,
+    "address": "295 Plymouth St, Halifax, MA 02338, USA",
+    "postalCode": "02338",
+    "distance": 327.68105243163006
+  },
+  {
+    "lat": 41.5643144,
+    "lng": -70.5959094,
+    "address": "137 Teaticket Hwy, East Falmouth, MA 02563, USA",
+    "postalCode": "United States",
+    "distance": 328.49680072778926
+  },
+  {
+    "lat": 42.5704229,
+    "lng": -71.11272919999999,
+    "address": "72 Main St, North Reading, MA 01864, USA",
+    "postalCode": "01864",
+    "distance": 329.40616365008884
+  },
+  {
+    "lat": 41.7575738,
+    "lng": -70.6636893,
+    "address": "3005 Cranberry Hwy 6 28, East Wareham, MA 02538, USA",
+    "postalCode": "Massachusetts",
+    "distance": 329.4878205334585
+  },
+  {
+    "lat": 42.122497,
+    "lng": -70.83161419999999,
+    "address": "1775 Washington St, Hanover, MA 02339, USA",
+    "postalCode": "02339",
+    "distance": 330.311400540111
+  },
+  {
+    "lat": 42.7428959,
+    "lng": -71.1654929,
+    "address": "70 Pleasant Valley St, Methuen, MA 01844, USA",
+    "postalCode": "01844",
+    "distance": 330.93754220180864
+  },
+  {
+    "lat": 41.955574,
+    "lng": -70.7179621,
+    "address": "300 Colony Pl, Plymouth, MA 02360, USA",
+    "postalCode": "02360",
+    "distance": 331.0775935004328
+  },
+  {
+    "lat": 42.4487941,
+    "lng": -70.9608099,
+    "address": "780 Lynnway, Lynn, MA 01905, USA",
+    "postalCode": "01905",
+    "distance": 331.98414217499567
+  },
+  {
+    "lat": 42.494501,
+    "lng": -70.9355235,
+    "address": "450 Highland Ave, Salem, MA 01970, USA",
+    "postalCode": "01970",
+    "distance": 333.6120559169789
+  },
+  {
+    "lat": 42.5545669,
+    "lng": -70.96824,
+    "address": "55 Brooksby Village Dr, Danvers, MA 01923, USA",
+    "postalCode": "01923",
+    "distance": 333.6683072292898
+  }
+]
